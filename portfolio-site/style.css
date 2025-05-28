@@ -1,0 +1,44 @@
+/* style.css */
+
+/* Apply general styles to the entire page */
+body {
+  background-color: #f0f4f8; /* Light blue-gray background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Container to center content and provide padding */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styling */
+header {
+  background-color: #007acc;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Main content area */
+main {
+  padding: 20px;
+}
+
+/* Footer styling */
+footer {
+  background-color: #003d66;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
